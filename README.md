@@ -1,4 +1,4 @@
-# Hyperelastic Tensile Test Post-Processing for Skin-Mimicking Materials
+# Hyperelastic Tensile Test Post-Processing
 
 This repository contains Jupyter notebooks for post-processing uniaxial tensile tests of skin-mimicking elastomeric materials. The workflow combines tensile testing data with optical image-based dimensional measurements to obtain stress–strain curves suitable for the mechanical characterization of highly deformable materials.
 
