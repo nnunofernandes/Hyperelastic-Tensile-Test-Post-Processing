@@ -1,5 +1,6 @@
 # Cauchy Stress Tensile Test Post-Processing for Skin-Mimicking Materials
-
+[![DOI](https://zenodo.org/badge/1248562502.svg)](https://doi.org/10.5281/zenodo.20369749)
+##Overview
 This repository contains Jupyter notebooks for post-processing uniaxial tensile tests of skin-mimicking elastomeric materials. The workflow combines tensile testing data with optical image-based dimensional measurements to obtain stress–strain curves suitable for the mechanical characterization of highly deformable materials.
 
 The current notebooks process two material groups:
@@ -8,8 +9,6 @@ The current notebooks process two material groups:
 - `Resultados_CompositoE.ipynb` — tensile post-processing for composite/elastomeric samples.
 
 The analysis is intended to support the extraction of experimental mechanical data for nonlinear constitutive modelling, particularly when conventional linear elastic descriptors such as Young's modulus and Poisson's ratio are insufficient.
-
-## Overview
 
 Soft elastomeric and skin-mimicking materials typically undergo large deformations during tensile testing. For this reason, the notebooks compute and compare:
 
